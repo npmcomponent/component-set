@@ -1,17 +1,9 @@
 {
-  "name": "set-component",
+  "name": "component-set",
+  "description": "set container",
   "version": "1.0.0",
-  "description": "Set container",
   "keywords": [
     "set"
   ],
-  "component": {
-    "scripts": {
-      "set/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/set.git"
-  }
+  "dependencies": {}
 }
